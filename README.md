@@ -2,7 +2,7 @@
 
 Forked from AngularTemplates/learn-angular-from-scratch-step-by-step
 
-The focus of this project was to migrate this forked project using node.js and AWS services such as API Gateway, Lambda, S3, and DynamoDB.
+The focus of this project was to migrate this forked repository using node.js and AWS services such as API Gateway, Lambda, S3, and DynamoDB.
 
 Presentation URL: http://aws.fs2-presentation.website.s3-website-us-east-1.amazonaws.com/
 
